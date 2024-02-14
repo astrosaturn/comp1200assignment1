@@ -1,0 +1,8 @@
+       CPA Private Hospital Room Charge
+       ********************************
+Patient Name  Room Type      # of Days Room Charge
+
+Eric          Private               13        6825
+Alex          Semi-Private           3         750
+Anthony       Ward                   6         600
+Total Charges                                 8175
